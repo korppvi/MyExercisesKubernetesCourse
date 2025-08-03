@@ -1,3 +1,3 @@
 # TodoApp
 
-Deploy this using: kubectl create deployment todoapp-dep --image=vilkorppi/todoapp
+Deploy this using: kubectl apply -f manifests/deployment.yaml
