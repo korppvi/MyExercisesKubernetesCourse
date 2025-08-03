@@ -1,3 +1,3 @@
 # Logoutput
 
-Deploy this using: kubectl apply -f manifests/deployment.yaml
+Deploy this using: kubectl apply -f manifest/deployment.yaml
