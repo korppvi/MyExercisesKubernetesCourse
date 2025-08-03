@@ -1,3 +1,3 @@
 # Logoutput
 
-Deploy this using: kubectl create deployment logoutput-dep --image=vilkorppi/logoutput
+Deploy this using: kubectl apply -f manifests/deployment.yaml
